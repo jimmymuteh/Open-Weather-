@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": 37.2,
+    "lat": -0.6667
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 18.38,
+    "feels_like": 18.68,
+    "temp_min": 18.38,
+    "temp_max": 18.38,
+    "pressure": 1018,
+    "humidity": 92,
+    "sea_level": 1018,
+    "grnd_level": 885
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 1.32,
+    "deg": 135,
+    "gust": 2.42
+  },
+  "clouds": {
+    "all": 100
+  },
+  "dt": 1792116350,
+  "sys": {
+    "country": "KE",
+    "sunrise": 1792120372,
+    "sunset": 1792164025
+  },
+  "timezone": 10800,
+  "id": 180868,
+  "name": "Sagana",
+  "cod": 200
+}
